@@ -4,8 +4,5 @@ Just another UAC bypass using auto-elevated COM object Virtual Factory for DiagC
 
 This PoC is inspired by this awesome research from [@zcgonvh](https://github.com/zcgonvh)
 
-http://www.zcgonvh.com/post/Advanced_Windows_Task_Scheduler_Playbook-Part.2_from_COM_to_UAC_bypass_and_get_SYSTEM_dirtectly.html (in chinaese)
-
-
-![image](https://user-images.githubusercontent.com/44291883/177015112-908a6e50-ff25-4afa-b31a-86a60f18d901.png)
+http://www.zcgonvh.com/post/Advanced_Windows_Task_Scheduler_Playbook-Part.2_from_COM_to_UAC_bypass_and_get_SYSTEM_dirtectly.html (in chinaese) ![image](https://user-images.githubusercontent.com/44291883/177015112-908a6e50-ff25-4afa-b31a-86a60f18d901.png)
 
